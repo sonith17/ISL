@@ -1,0 +1,9 @@
+cuda
+torch.Size([3, 224, 224]) 0
+training samples: 8497
+test samples: 2539
+Classes 20
+model loaded
+Loss: 0.00011762294889194891
+Train Accuracy: 98.30881487583854%
+Test Accuracy: 87.59354076408034%
